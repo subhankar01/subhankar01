@@ -16,4 +16,4 @@ This is Subhankar Sen-- Welcome to my github space. I am a Computer Science Engi
 - [Gmail](mailto:subhankarsen2001@gmail.com)
 - [LinkedIn](linkedin.com/in/subhankar-sen-a62457190)
 
-I am always looking for research collaborations from individuals dedicated to Theoretical Deep Learning ,Machine Learning, Pattern Recognition and Deep Learning for Computer Vision. Email is the best way to reach out to me in this case.😊
+I am always looking for research collaborations from individuals dedicated to Theoretical Deep Learning ,Machine Learning, Pattern Recognition and Deep Learning for Computer Vision. Email is the best way to reach out to me in this case.😊❤️️
