@@ -1,4 +1,4 @@
-# Hey there, hope you're doing great ! 😄 💫. 
+# Hey there, hope you're doing great ! 😄 💫❤️️ 
 
 This is Subhankar Sen-- Welcome to my github space. I am a Computer Science Engineering undergraduate at Manipal University Jaipur, India.I take keen interest and have a hands-on experience in the field of machine learning, deep learning, pattern recognition and data analytics.I am proficient in Tensorflow, Keras, OpenCV libraries.The primary focus of my work is Deep Learning for Computer Vision and Image Processing. I am deeply intrigued and have been extensively involved in the research studies revelant to the domains of bio-imaging,medical anaylsis and healthcare using AI . Please be redirected to my personal profile page or my blog to get an idea of collaborations with me which might be welcome.😊
 
@@ -12,8 +12,8 @@ This is Subhankar Sen-- Welcome to my github space. I am a Computer Science Engi
 ### Supervisors List:
 - [Associate Prof. Dr Ram Sarkar, Jadavpur University Kolkata](https://scholar.google.com/citations?user=bDj0BUEAAAAJ&hl=en&oi=sra)
 
-### Find me:
+### Find me @ :
 - [Gmail](mailto:subhankarsen2001@gmail.com)
 - [LinkedIn](linkedin.com/in/subhankar-sen-a62457190)
 
-I am always looking for research collaborations from individuals dedicated to Theoretical Deep Learning ,Machine Learning, Pattern Recognition and Deep Learning for Computer Vision. Email is the best way to reach out to me in this case.😊❤️️
+I am always looking for research collaborations from individuals dedicated to Theoretical Deep Learning ,Machine Learning, Pattern Recognition and Deep Learning for Computer Vision. Email is the best way to reach out to me in this case.😊
