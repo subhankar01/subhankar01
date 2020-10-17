@@ -1,4 +1,4 @@
-<img src="https://github.com/subhankar01/subhankar01/blob/main/intro.png" width="750">
+<img src="https://github.com/subhankar01/subhankar01/blob/main/intro.png" width="1000">
 
 # Hey there, hope you're doing great ! 😄 💫❤️️ 
 
