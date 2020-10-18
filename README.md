@@ -11,7 +11,7 @@ This is Subhankar Sen-- Welcome to my github space. I am a Computer Science Engi
 -Breast Cancer Histology classification  [Github](https://github.com/subhankar01/Breast-Cancer-Classification) 
 
 -Heart Disease Classification  [Github](https://github.com/subhankar01/Heart-Disease-Risk-Prediction-and-Classification)
-### Research Supervisors List:
+### List of Research Supervisors I have worked with :
 - [Associate Prof. Dr Ram Sarkar, Jadavpur University Kolkata](https://scholar.google.com/citations?user=bDj0BUEAAAAJ&hl=en&oi=sra)
 
 ### Find me @ :
