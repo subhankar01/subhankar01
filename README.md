@@ -14,7 +14,7 @@ This is Subhankar Sen-- Welcome to my github space. I am a Computer Science Engi
 ### List of Research Supervisors I have worked with :
 - [Associate Prof. Dr Ram Sarkar, Jadavpur University Kolkata](https://scholar.google.com/citations?user=bDj0BUEAAAAJ&hl=en&oi=sra)
 
-### Find me @ :
+### Find me at :
 - [Gmail](mailto:subhankarsen2001@gmail.com)
 - [LinkedIn](linkedin.com/in/subhankar-sen-a62457190)
 
