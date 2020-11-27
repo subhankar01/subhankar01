@@ -18,8 +18,8 @@ This is Subhankar Sen-- Welcome to my github space. I am a Computer Science Engi
 
 -Heart Disease Classification  [Github](https://github.com/subhankar01/Heart-Disease-Risk-Prediction-and-Classification)
 #### Note:
-Private Repositories are ;)
-About 3-4 research projects are currently in private repos and I am not allowed to make them public before my research paper publication, but will be making them public soon !
+Private Repositories are ;) 😎
+About 3-4 research projects are currently in private repos and I am not allowed to make them public before my research papers get published, but will be making them public soon !
 ### List of Research Supervisors I have worked with :
 - [Associate Prof. Dr Ram Sarkar, Jadavpur University Kolkata](https://scholar.google.com/citations?user=bDj0BUEAAAAJ&hl=en&oi=sra)
 
