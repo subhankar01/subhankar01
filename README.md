@@ -13,7 +13,9 @@ This is Subhankar Sen-- Welcome to my github space. I am a Computer Science Engi
 
 ### List of Completed Projects 
 -Breast Cancer Histology classification  [Github](https://github.com/subhankar01/Breast-Cancer-Classification) 
+
 -Eureka [Github](https://github.com/subhankar01/Project-eUreka)
+
 -Heart Disease Classification  [Github](https://github.com/subhankar01/Heart-Disease-Risk-Prediction-and-Classification)
 #### Note:
 Private Repositories are ;)
