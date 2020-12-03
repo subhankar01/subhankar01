@@ -34,4 +34,4 @@ About 3-4 research projects are currently in private repos and I am not allowed 
 ### Know more about me and my works:
 -[Homepage](https://subhankarsen2001.wixsite.com/personalwebsite)
 
-I am always looking for research collaborations with individuals dedicated to Theoretical Deep Learning ,Machine Learning, Pattern Recognition and Deep Learning for Computer Vision. Email is the best way to reach out to me in this case.😊
+I am always looking for research collaborations with individuals dedicated to Machine Learning, Pattern Recognition and Deep Learning for Computer Vision. Email is the best way to reach out to me in this case.😊
