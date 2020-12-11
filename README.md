@@ -17,11 +17,20 @@ This is Subhankar Sen-- Welcome to my github space. I am a Computer Science Engi
 ![alt text](https://camo.githubusercontent.com/3c8f7b09934f30bb6714b3f7fe9a622a43a92d98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5363694b6974204c6561726e2d4637393331453f7374796c653d666c61742d737175617265266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465)
 
 ### List of Completed Projects 
--Breast Cancer Histology classification  [Github](https://github.com/subhankar01/Breast-Cancer-Classification) 
+-Breast Cancer Histology classification using deep learning [Github](https://github.com/subhankar01/Breast-Cancer-Classification) 
 
 -Eureka [Github](https://github.com/subhankar01/Project-eUreka)
 
 -Heart Disease Classification  [Github](https://github.com/subhankar01/Heart-Disease-Risk-Prediction-and-Classification)
+
+## List of ongoing Projects
+- Detection of COVID-19 from chest Xray using deep feature extraction and novel feature selection techniques
+
+### List of Research Publications:(under review/published)
+
+### Journal:
+-Fuzzy Ensemble of Deep Learning Models using Choquet Integral and Information Theory for Breast Cancer Histology classification( Information Fusion, Elsevier(Impact Factor: 13.2)
+(Under review)
 #### Note:
 Private Repositories are ;) !
 About 3-4 research projects are currently in private repos and I am not allowed to make them public before my research papers get published, but will be making them public soon !
