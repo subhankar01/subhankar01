@@ -41,7 +41,7 @@ About 3-4 research projects are currently in private repos and I am not allowed 
 ### List of Research Supervisors I have worked with :
 - [Associate Prof. Dr Ram Sarkar, Jadavpur University Kolkata](https://scholar.google.com/citations?user=bDj0BUEAAAAJ&hl=en&oi=sra)
 
-### Find me at :
+### Reach out to me :
 - [Gmail](mailto:subhankarsen2001@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/subhankar-sen-a62457190)
 ### Know more about me and my works:
