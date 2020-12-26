@@ -51,5 +51,5 @@ I am always looking for research collaborations with individuals dedicated to Ma
 
 ### Fun fact: I love good humor and a caffeine dependent lifeform
 #### 😂Possible future of AGI(Artificial General Intelligence)😂
-<img src="https://github.com/subhankar01/subhankar01/blob/main/aihaha.jpg" width="500">
+<img src="https://github.com/subhankar01/subhankar01/blob/main/aihaha.jpg" width="300">
 
