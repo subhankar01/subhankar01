@@ -49,7 +49,7 @@ About 3-4 research projects are currently in private repos and I am not allowed 
 
 I am always looking for research collaborations with individuals dedicated to Machine Learning, Pattern Recognition and Deep Learning for Computer Vision. Email is the best way to reach out to me in this case.😊
 
-### Fun fact: I love good humor and a caffeine dependent lifeform
+### Fun fact: I love good humor and am a caffeine dependent lifeform
 #### 😂Possible future of AGI(Artificial General Intelligence)😂
 <img src="https://github.com/subhankar01/subhankar01/blob/main/aihaha.jpg" width="300">
 
