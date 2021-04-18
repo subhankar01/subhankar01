@@ -34,8 +34,8 @@ This is Subhankar Sen-- Welcome to my github space. I am a Computer Science Engi
 
 ### Journal:
 - Fuzzy Ensemble of Deep Learning Models using Choquet Integral and Information Theory for Breast Cancer Histology classification ***(Expert Systems and Applications,ELsevier)(Impact factor:5.6)(Under review)***
-- Choquet Integral and Coalition Game-basedEnsemble of Deep Learning Models forCOVID-19 Screening from Chest X-ray Images ***(IEEE Journal for Biomedical and Health Informatics)(Impact factor:5.523)(under review)***
-- A Two-tier Feature Selection Method using CoalitionGame and Nystrom Sampling for ScreeningCOVID-19 from Chest X-Ray Images ***(Journal of Ambient Intelligence and Humanized Computing, Springer)(Impact factor:4.594)(under review)***
+- Choquet Integral and Coalition Game-based Ensemble of Deep Learning Models for COVID-19 Screening from Chest X-ray Images ***(IEEE Journal for Biomedical and Health Informatics)(Impact factor:5.523)(under review)***
+- A Two-tier Feature Selection Method using Coalition Game and Nystrom Sampling for Screening COVID-19 from Chest X-Ray Images ***(Journal of Ambient Intelligence and Humanized Computing, Springer)(Impact factor:4.594)(under review)***
 #### Note:
 Private Repositories are ;) !
 About 3-4 research projects are currently in private repos and I am not allowed to make them public before my research papers get published, but will be making them public soon !
