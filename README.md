@@ -13,6 +13,7 @@ This is Subhankar Sen-- Welcome to my github space. I am a Computer Science Engi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhankar01&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=subhankar01&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Frameworks/Languages 💻
