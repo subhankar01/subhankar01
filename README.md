@@ -7,7 +7,7 @@
  ~***Yours truly(Subhankar Sen)***
  
  
-# Hey there, hope you're doing great ! 😄 💫❤️️ 
+# Hey there, hope you're doing great !😄❤️️ 
 
 This is Subhankar Sen-- Welcome to my github space. I am a Computer Science Engineering undergraduate student at Manipal University Jaipur, India.I take keen interest and have a hands-on experience in the field of machine learning, deep learning, pattern recognition and data analytics.I am proficient in Tensorflow, Keras,OpenCV and Pytorch.The primary focus of my work is Deep Learning for Computer Vision and Image Processing. I am deeply intrigued and have been extensively involved in the research studies revelant to the domains of bio-imaging,medical anaylsis and healthcare using AI .
 
