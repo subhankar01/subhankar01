@@ -42,7 +42,7 @@ This is Subhankar Sen-- Welcome to my github space. I am a Computer Science Engi
 Private Repositories are ;) !
 About 3-4 research projects are currently in private repos and I am not allowed to make them public before my research papers get published, but will be making them public soon !
 ### List of Research Supervisors I have worked with :
-- [Associate Prof. Dr Ram Sarkar, CMATER lab, Jadavpur University Kolkata](https://scholar.google.com/citations?user=bDj0BUEAAAAJ&hl=en&oi=sra)
+- [Prof. Dr Ram Sarkar, CMATER lab, Jadavpur University Kolkata](https://scholar.google.com/citations?user=bDj0BUEAAAAJ&hl=en&oi=sra)
 - [Assistant Prof. Ravi Kiran Sarvadevabhatla, CVIT lab, IIIT Hyderabad](https://scholar.google.co.in/citations?user=oLJTcXIAAAAJ&hl=en)
 
 ### Reach out to me :
