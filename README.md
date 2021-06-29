@@ -1,3 +1,4 @@
+<a href="https://www.instagram.com/__subho__.py/"><img src="https://github.com/subhankar01/subhankar01/blob/main/assets/insta.png"width="50" height="50"></a>
 <img src="https://github.com/subhankar01/subhankar01/blob/main/intro.png" width="1000">
 
  ***"In research, without sheer passion and dedication, we all will look like overworking brainy clerks.🤓 The love❤️️ that kindles the urge of giving the world something new,novel,and groundbreaking is our driving fuel!⛽️"***
