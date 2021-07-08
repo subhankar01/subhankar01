@@ -19,11 +19,9 @@ This is Subhankar Sen-- Welcome to my github space. I am a Computer Science Engi
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=subhankar01&layout=compact&theme=radical" />
 </a>
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhankar01&theme=omni&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats)
-
-
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhankar01&theme=omni&currStreakNum=2FD3EB&fire=pink&sideLabels=F00" />
+</a>
 
 ## Tools and Languages 💻
 
