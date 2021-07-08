@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=subhankar01&color=blueviolet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=subhankar01&color=blueviolet&style=plastic)
 ## Get in touch with me ! 😄
 <a href="https://www.instagram.com/__subho__.py/"><img src="https://github.com/subhankar01/subhankar01/blob/main/assets/insta.png" width="50" height="50"></a> <a href="https://www.clubhouse.com/@subhankarsen"><img src="https://github.com/subhankar01/subhankar01/blob/main/assets/Clubhouse_App_Logo.svg" width="50" height="50"></a> <a href="https://wa.me/919836987095"><img src="https://github.com/subhankar01/subhankar01/blob/main/assets/whatsapp.png" width="50" height="50"></a> <a href="https://www.linkedin.com/in/subhankar-sen-a62457190/"><img src="https://github.com/subhankar01/subhankar01/blob/main/assets/linkedin.png" width="50" height="50"></a> <a href="https://www.facebook.com/subhankar.sen.9809672"><img src="https://github.com/subhankar01/subhankar01/blob/main/assets/fb.png" width="50" height="50"></a>
 <img src="https://github.com/subhankar01/subhankar01/blob/main/intro.png" width="1000">
