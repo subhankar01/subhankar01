@@ -36,22 +36,14 @@ This is Subhankar Sen-- Welcome to my github space. I am a Computer Science Engi
 ### Backend
 ![alt text](https://camo.githubusercontent.com/4d74b36962a1b06aed5f035f2f95f131059b2b551c7e6d81630f7df7831b9f80/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446a616e676f2d3039324532303f7374796c653d666f722d7468652d6261646765266c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465)
 
-## List of Completed Projects 
-- Breast Cancer Histology classification using deep learning [Github](https://github.com/subhankar01/Breast-Cancer-Classification) 
-
-- Eureka [Github](https://github.com/subhankar01/Project-eUreka)
-
-- Heart Disease Classification  [Github](https://github.com/subhankar01/Heart-Disease-Risk-Prediction-and-Classification)
-
 ## List of ongoing Projects
-- Detection of COVID-19 from chest Xray using deep feature extraction and novel feature selection techniques
-- Classification of Geometric Features using CNN for 3D Skeleton based Action Recognition
+- Generalized Zero Shot learning using RGB images and videos for image classification and human action recognition
 ## List of Research Publications:(under review/published)
 
 ### Journal:
-- Fuzzy Ensemble of Deep Learning Models using Choquet Integral and Information Theory for Breast Cancer Histology classification ***(Expert Systems and Applications,ELsevier)(Impact factor:5.6)(Under review)***
+- Fuzzy Ensemble of Deep Learning Models using Choquet Integral and Information Theory for Breast Cancer Histology classification ***(Expert Systems and Applications,ELsevier)(Impact factor:6.772)(Under review)***
 - Choquet Integral and Coalition Game-based Ensemble of Deep Learning Models for COVID-19 Screening from Chest X-ray Images ***(IEEE Journal for Biomedical and Health Informatics)(Impact factor:5.523)(under review)***
-- A Two-tier Feature Selection Method using Coalition Game and Nystrom Sampling for Screening COVID-19 from Chest X-Ray Images ***(Journal of Ambient Intelligence and Humanized Computing, Springer)(Impact factor:4.594)(under review)***
+- A Two-tier Feature Selection Method using Coalition Game and Nystrom Sampling for Screening COVID-19 from Chest X-Ray Images ***(Journal of Ambient Intelligence and Humanized Computing, Springer)(Impact factor:7.104)(under review)***
 #### Note:
 Private Repositories are ;) !
 About 3-4 research projects are currently in private repos and I am not allowed to make them public before my research papers get published, but will be making them public soon !
