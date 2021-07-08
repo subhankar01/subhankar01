@@ -12,7 +12,13 @@
 
 This is Subhankar Sen-- Welcome to my github space. I am a Computer Science Engineering undergraduate student at Manipal University Jaipur, India.I take keen interest and have a hands-on experience in the field of machine learning, deep learning, data and multimodal analytics.I am proficient in Tensorflow, Keras,OpenCV and Pytorch.The primary focus of my work is Deep Learning for Computer Vision and Image Processing. I am deeply intrigued and have been extensively involved in the research studies revelant to the domains of AI in medical image analysis, human action recognition and zero shot learning.
 
-[![Subhankar's github stats](https://github-readme-stats.vercel.app/api?username=subhankar01&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhankar01&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=subhankar01&show_icons=true&include_all_commits=true&theme=radical" alt="Subhankar's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=subhankar01&layout=compact&theme=radical" />
+</a>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhankar01&theme=omni&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats)
