@@ -11,10 +11,11 @@ This is Subhankar Sen-- Welcome to my github space. I am a Computer Science Engi
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=subhankar01&show_icons=true&include_all_commits=true&theme=radical" alt="Subhankar's github stats" />
 </a>
+</br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhankar01&langs_count=8&theme=radical" alt="Subhankar's top langs" />
 </a>
-
+</br>
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhankar01&theme=omni&currStreakNum=2FD3EB&fire=pink&sideLabels=F00" />
 </a>
