@@ -13,7 +13,7 @@ This is Subhankar Sen-- Welcome to my github space. I am a Computer Science Engi
 </a>
 </br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhankar01&langs_count=8&theme=radical" alt="Subhankar's top langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhankar01&langs_count=8&theme=radical&layout=compact" alt="Subhankar's top langs" />
 </a>
 </br>
 <a href="https://git.io/streak-stats">
