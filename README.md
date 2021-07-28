@@ -44,8 +44,7 @@ This is Subhankar Sen-- Welcome to my github space. I am a Computer Science Engi
 - Choquet Integral and Coalition Game-based Ensemble of Deep Learning Models for COVID-19 Screening from Chest X-ray Images ***(IEEE Journal for Biomedical and Health Informatics)(Impact factor:5.523)(under review)***
 - A Two-tier Feature Selection Method using Coalition Game and Nystrom Sampling for Screening COVID-19 from Chest X-Ray Images ***(Journal of Ambient Intelligence and Humanized Computing, Springer)(Impact factor:7.104)(under review)***
 #### Note:
-Private Repositories are ;) !
-About 3-4 research projects are currently in private repos and I am not allowed to make them public before my research papers get published, but will be making them public soon !
+Around 2-3 research projects are currently in private repos and I am not allowed to make them public before my research papers get published, but will be making them public soon !
 ### List of Research Supervisors I have worked with :
 - [Prof. Dr Ram Sarkar, CMATER lab, Jadavpur University Kolkata](https://scholar.google.com/citations?user=bDj0BUEAAAAJ&hl=en&oi=sra)
 - [Assistant Prof. Ravi Kiran Sarvadevabhatla, CVIT lab, IIIT Hyderabad](https://scholar.google.co.in/citations?user=oLJTcXIAAAAJ&hl=en)
