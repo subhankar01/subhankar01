@@ -50,7 +50,7 @@ Around 2-3 research projects are currently in private repos and I am not allowed
 - [Assistant Prof. Ravi Kiran Sarvadevabhatla, CVIT lab, IIIT Hyderabad](https://scholar.google.co.in/citations?user=oLJTcXIAAAAJ&hl=en)
 
 ### Reach out to me :
-- [Gmail](mailto:subhankarsen2001@gmail.com)
+- [subhankarsen2001 [at] gmail [dot] com](mailto:subhankarsen2001@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/subhankar-sen-a62457190)
 ### Know more about me and my works:
 - [Homepage](https://subhankarsen2001.wixsite.com/personalwebsite)
