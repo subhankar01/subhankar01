@@ -6,7 +6,7 @@
  
 # Hey there, hope you're doing great ✨
 
-This is Subhankar Sen-- Welcome to my github space. I am a Computer Science Engineering undergraduate student at Manipal University Jaipur, India.I take keen interest and have a hands-on experience in the field of machine learning, deep learning, data and multimodal analytics.I am proficient in Tensorflow, Keras,OpenCV and Pytorch.The primary focus of my work is Deep Learning for Computer Vision and Image Processing. I am deeply intrigued and have been extensively involved in the research studies revelant to the domains of AI in medical image analysis, human action recognition and zero shot learning.
+This is Subhankar Sen-- Welcome to my github space. I am a Computer Science Engineering undergraduate student at Manipal University Jaipur, India. I take a keen interest and have good hands-on experience in the field of Deep Learning, Machine Learning, Computer Vision, Image and Video Processing, and Multimodal Analytics. My undergraduate research experience to date encompasses fields such as AI in Healthcare and Biomedical Image Processing, Representation Learning, Human Action Recognition, Zero-Shot Learning, and Generative Modeling. And I am deeply intrigued to delve deep into new and unexplored fields of problem-solving using AI and thereby enhance my learning curve. 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=subhankar01&show_icons=true&include_all_commits=true&theme=radical" alt="Subhankar's github stats" />
