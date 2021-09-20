@@ -49,5 +49,6 @@ Around 2-3 research projects are currently in private repos and I am not allowed
 - [LinkedIn](https://www.linkedin.com/in/subhankar-sen-a62457190)
 ### Know more about me and my works:
 - [Homepage](https://subhankarsen2001.wixsite.com/personalwebsite)
+- [Google Scholar](https://scholar.google.com.sg/citations?user=MSXb0xoAAAAJ&hl=en)
 
 I am always looking for research collaborations with individuals dedicated to Machine Learning, Pattern Recognition and Deep Learning for Computer Vision. Email is the best way to reach out to me in this case.😊
