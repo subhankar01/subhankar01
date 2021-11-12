@@ -49,4 +49,4 @@ Around 2-3 research projects are currently in private repos and I am not allowed
 - [Google Scholar](https://scholar.google.com.sg/citations?user=MSXb0xoAAAAJ&hl=en)
 - [Research Gate](https://www.researchgate.net/profile/Subhankar-Sen-2)
 
-I am always looking for research collaborations with individuals dedicated in the grey area between Deep Learning and Computer Vision. Email is the best way to reach out to me in this case.😊
+I am always looking for research collaborations with individuals dedicated at the intersection of Deep Learning and Computer Vision. Email is the best way to reach out to me in this case.😊
