@@ -27,19 +27,17 @@ This is Subhankar Sen-- Welcome to my github space. I am a Computer Science Engi
 ### Tools and IDE
 ![alt text](https://camo.githubusercontent.com/42ada9cc774b9d2b4cf35691820a881d70657ae42c3a074f00c7e9add6352361/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465) ![alt text](https://camo.githubusercontent.com/75251632e9c74475dfb9c8a4f17b34792226384fe87ff456cb8603b4e94a15bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4633373632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a757079746572266c6f676f436f6c6f723d7768697465)  ![alt text](https://camo.githubusercontent.com/eda318cefcea9bc55d00c18d309eaadbfb4661d4908eba7407104b908404ac13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7079636861726d2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d7079636861726d266c6f676f436f6c6f723d7768697465) ![alt text](https://camo.githubusercontent.com/f7225a2d383180cf57b8ba875dd1331f32a1aeb6337b946d6a13eb23e7df46a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742532302d253232334646393930302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465) ![alt text](https://camo.githubusercontent.com/55c32e9d380b5bd733ff596980321108fd1c9cdea60e71ffb9aff49b27ddfdb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61636f732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61636f73266c6f676f436f6c6f723d7768697465)
 
-## List of ongoing Projects
-- Weakly Supervised Temporal Action Localization
 ## List of Research Publications:(under review/published)
 
 ### Journal:
 - Fuzzy Ensemble of Deep Learning Models using Choquet Integral and Information Theory for Breast Cancer Histology classification ***(Expert Systems and Applications,ELsevier)(Impact factor:6.772)(accepted)***
 - Choquet Integral and Coalition Game-based Ensemble of Deep Learning Models for COVID-19 Screening from Chest X-ray Images ***(IEEE Journal for Biomedical and Health Informatics)(Impact factor:5.772)*** [[Paper]](https://ieeexplore.ieee.org/document/9534669/authors#authors) [[Code]](https://github.com/subhankar01/Covid-Chestxray-lambda-fuzzy) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/choquet-integral-and-coalition-game-based/covid-19-diagnosis-on-covidx)](https://paperswithcode.com/sota/covid-19-diagnosis-on-covidx?p=choquet-integral-and-coalition-game-based) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/choquet-integral-and-coalition-game-based/covid-19-diagnosis-on-novel-covid-19)](https://paperswithcode.com/sota/covid-19-diagnosis-on-novel-covid-19?p=choquet-integral-and-coalition-game-based)
 - A Two-tier Feature Selection Method using Coalition Game and Nystrom Sampling for Screening COVID-19 from Chest X-Ray Images ***(Journal of Ambient Intelligence and Humanized Computing, Springer)(Impact factor:7.104)***[[Paper]](https://link.springer.com/article/10.1007/s12652-021-03491-4)[[Code]](https://github.com/subhankar01/covidfs-aihc)
-#### Note:
-Around 2-3 research projects are currently in private repos and I am not allowed to make them public before my research papers get published, but will be making them public soon !
+
 ### List of Research Supervisors I have worked with :
 - [Prof. Dr. Ram Sarkar, CMATER lab, Jadavpur University Kolkata](https://scholar.google.com/citations?user=bDj0BUEAAAAJ&hl=en&oi=sra)
 - [Prof. Dr. Ravi Kiran Sarvadevabhatla, CVIT lab, IIIT Hyderabad](https://scholar.google.co.in/citations?user=oLJTcXIAAAAJ&hl=en)
+- [Prof. Dr. Hongliang Ren, NUS Mecical Mechatronics Lab](https://scholar.google.com/citations?user=rcF7N44AAAAJ&hl=en)
 
 ### Reach out to me :
 - [subhankarsen2001 [at] gmail [dot] com](mailto:subhankarsen2001@gmail.com)
